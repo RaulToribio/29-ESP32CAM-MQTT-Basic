@@ -1,5 +1,3 @@
-# 29-ESP32CAM-MQTT-Basic
-
 # Introducción
 
 Arduino IDE es un Entorno de Desarrollo Integrado (IDE) para programar y desarrollar proyectos con placas Arduino. Incluye un editor de código, un compilador y una herramienta de carga para facilitar el proceso de escribir, depurar y cargar código en las placas Arduino. Además, Arduino IDE viene con una gran cantidad de bibliotecas y ejemplos pre-instalados que ayudan a los desarrolladores a empezar rápidamente con sus proyectos.
